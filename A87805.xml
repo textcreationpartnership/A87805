@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The knavish merchant (now turn'd warehouseman) characterized or A severe scourge, for an unjust, cruel, and unconsionable adversary / By Philadelphus Verax a cordial friend to his honest (though injuriously oppressed) aquaintance Thomas Crocker merchant.</title>
+            <author>Verax, Philadelphus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87805</idno>
+            <idno type="STC">Wing K677</idno>
+            <idno type="STC">Thomason E1088_2</idno>
+            <idno type="STC">ESTC R208553</idno>
+            <idno type="EEBO-CITATION">99867496</idno>
+            <idno type="PROQUEST">99867496</idno>
+            <idno type="VID">169380</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169380)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 162:E1088[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The knavish merchant (now turn'd warehouseman) characterized or A severe scourge, for an unjust, cruel, and unconsionable adversary / By Philadelphus Verax a cordial friend to his honest (though injuriously oppressed) aquaintance Thomas Crocker merchant.</title>
+                  <author>Verax, Philadelphus.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the second month of the next year that tyrants ceas't do domineer. [1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crocker, Thomas --  Early works to 1800.</term>
+               <term>Business ethics --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169380:1" rendition="simple:additions"/>
+            <p>The Knaviſh MERCHANT (Now turn'd Warehouſeman) CHARACTARIZED OR A ſevere Scourge, for an unjuſt, cruel, and unconſcionable Adverſary</p>
+            <p>By <hi>Philadelphus Verax</hi> a Cordial friend to his honeſt (though injuriouſly oppreſſed) acquaintance <hi>Thomas Crocker</hi> Merchant.</p>
+            <q>
+               <bibl>17. 2 Sam. 23.</bibl>
+               <p>Now when <hi>Achitophel</hi> ſaw his Counſel was not followed [took not effect] he ſadled his Aſſe, and aroſe and went home into his City, and ſet his houſehold in order, and hanged himſelf.</p>
+            </q>
+            <q xml:lang="lat">Foelix quem faciunt aliena paricula cautum.</q>
+            <p>
+               <q>
+                  <l>
+                     <hi>Printed</hi> The ſecond month of the next year</l>
+                  <l>That Tyrants ceaſ't to domineer.</l>
+               </q>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169380:2"/>
+            <pb facs="tcp:169380:2"/>
+            <head>The Knaviſh MERCHANT (now turn'd Warehouſeman) CHARACTARIZED</head>
+            <argument>
+               <lg>
+                  <l>TH' Accroſtick of theſe lines, if you read out,</l>
+                  <l>In them to find a knave, you need not doubt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>R</hi>epute and liberty while I injoy'd.</l>
+                  <l>
+                     <hi>I</hi> met a knave at laſt who both deſtroy'd</l>
+                  <l>
+                     <hi>C</hi>heated me of the one, the other blaſted;</l>
+                  <l>
+                     <hi>H</hi>eap't wrongs upon me whilſt my patience laſted.</l>
+                  <l>
+                     <hi>A</hi>t length I did reſolve for to oppoſe,</l>
+                  <l>
+                     <hi>R</hi>ight againſt wrong, and all his prancks diſcloſe,</l>
+                  <l>
+                     <hi>D</hi>eceiptfull Villian! had I been aware,</l>
+                  <l>
+                     <hi>N</hi>o feigned friendſhip ſhould have been my ſnare.</l>
+                  <l>
+                     <hi>E</hi>ver here after let all men take heed,</l>
+                  <l>
+                     <hi>A</hi>void him if they do intend to ſpeed.</l>
+                  <l>
+                     <hi>V</hi>arlets diſcover'd make a wiſe man wary</l>
+                  <l>
+                     <hi>E</hi>ven fooles prove fearful when they once miſcarry.</l>
+               </lg>
+            </argument>
+            <head>The Caſe,</head>
+            <p>In <hi>Anno</hi> 1655 <hi>Iohn Crocker</hi> Engliſh Merchant in <hi>Cadiz</hi> did by Bill of Lading (which is recited <hi>verbatim</hi> in the laſt page) con<g ref="char:EOLhyphen"/>ſigne unto his brother <hi>Thomas Crocker</hi> Merchant (amongſt other goods) 19 pieces of Sherry Sack; all for his own proper accompt, the which by their accompt of ſales amounted unto neate 101. l. 1s. 6d. ſterling which in conformity to the ſaid <hi>Iohn's</hi> order was accordingly diſpoſed of.</p>
+            <pb n="4" facs="tcp:169380:3"/>
+            <p> But ſo it is, that one <hi>Richard Neave</hi> (a pretended Signee, unto <hi>Andrew Beaſley</hi> a runnagate Roman Catholick) (through knaviſh ignorance) did about five years laſt paſt pretend an intereſt in the aforeſaid Wines, and for them commen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed a ſuite in the Court of Admiralty againſt one <hi>Iames Marſhal</hi> of <hi>Exeter,</hi> the Aſſigne of the ſaid <hi>Thomas;</hi> in which ſuite the ſaid <hi>Neave</hi> durſt not proceed to Triall as the Proctor Mr. <hi>Cheeke</hi> doth poſſitively affirme.</p>
+            <p>Notwithſtanding which the ſaid <hi>Neave</hi> (with whom the ſaid <hi>Thomas Crocker</hi> n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver had the leaſt dealing) did about <hi>November</hi> laſt, cauſe the ſaid <hi>Thomas</hi> to be Arreſted upon an action of the Caſe for three hundred Pounds: unto which the ſaid <hi>Thomas Crocker</hi> then procured Baile, which the ſaid <hi>Neave</hi> perceiving be<g ref="char:EOLhyphen"/>fore the acceptance of Baile then tendred (whereby to hinder him of being Bailed, he being a ſtranger in <hi>London</hi>) malitiouſly and on ſet purpoſe to procure his mine, cauſed to be entered in ſeveral Perſons Names (unknown to the ſaid <hi>Thomas Crocker</hi>) ſeveral Actions amounting to the value of about 6000. l. (a thing too too commonly practiſed in and about <hi>London</hi> to the horrid ſhame of the Government thereof) by which meanes many Merchants of repute, and divers others (eſpecially thoſe of meaner capaci<g ref="char:EOLhyphen"/>ties) have been ruined and utterly undone, as to expectation of all future preferments. As is ſufficiently apparent in this Gentlemans <hi>(Tho. Crockers)</hi> caſe, who was moſt diſgracefully Arreſted &amp; taken off the publick Exchange, &amp; thrown into the Loathſome Counter from whence with great expence of Money; he removed himſelf by <hi>Habeas Corpus</hi> to the Fleet, where he ſtill remaines Priſoner.</p>
+            <p>But the ſaid <hi>Neave</hi> perceiving the intent of the ſaid <hi>Thomas Crocker</hi> to remove himſelf (having had ſome notice of the ſame, and minding nothing but perverſe miſchief) went about to hinder his removal, to which end he would have entred an Action againſt the ſaid <hi>Thomas</hi> in the Lord Maiors Court to have it charged at the Counter, which he knew very well would not only put the ſaid <hi>Crocker</hi> to a longer ſtay in that Priſon, but alſo a great deale more extradorinary expence of Money, but the cauſes being returned, and the body gone, before he could effect this deſign he miſt his aime. Such diabolical and Deviliſh practi<g ref="char:EOLhyphen"/>ces
+<pb n="5" facs="tcp:169380:3"/>(as I am credibly informed) are uſual with the Citizens of <hi>London</hi> which the very Turks and Infidels would abhorr, and puniſh with no leſs then death.</p>
+            <p>That by reaſon of ſuch and ſo many great Actions no friends will become engaged for him, ſo that in the Fleet he is inforced to remaine cloſe Priſoner, even ſo may the moſt innocent ſuffer (if they want freinds) and if ſuch abominable Cheats be tollerated (for ſo they are not being puniſhed) more Families will hereafter be deſtroied (as too many already have by ſuch practices) then did the late Warr conſume.</p>
+            <p>Whether to ruin the ſaid <hi>Thomas Crocker</hi> by this means or not, was the intent of the ſaid <hi>Neave,</hi> is out of Queſtion, or whether the ſaid <hi>Neave</hi> did this not only upon that ſcore, but alſo in diſ<g ref="char:EOLhyphen"/>obedience to his Majeſties gratious pleaſure is a Queſtion. That <hi>Neave</hi> could not be ignorant of what preferment Mr. <hi>Crocker</hi> was likely to have, by the guift of his Royal grace the Duke of <hi>Yorke,</hi> is the Queſtion. Which Queſtion laſt propoſed he could not but know, and in knowing that, he knowes that Mr. <hi>Crocker</hi> loſt not only an honourable but profitable emploiment, in his Majeſties ſervice beyond the Seas.</p>
+            <p>Now that the world may take notice of the honeſt intention of the ſaid <hi>Thomas Crocker,</hi> and that they may ſee the damnable abſurdity of the ſaid <hi>Neave,</hi> let them obſerve this one thing, <hi>(viz.)</hi> that the ſaid <hi>Thomas Crocker,</hi> knowing the juſtneſs of his cauſe, not onely at the time of his firſt being arreſted, but many times ſince his being impriſoned, hath offered to come to an Ar<g ref="char:EOLhyphen"/>bitration, have all differences referred betwixt them, offering ſe<g ref="char:EOLhyphen"/>curity to ſtand to the Award of ſuch Arbitrators, as ſhall indiffe<g ref="char:EOLhyphen"/>rently be elected and choſen, one or two of each part. But the ſaid <hi>Neave</hi> being a croſſe baſe and ill condition'd fellow, refuſes this propoſition, and contrary to his promiſe to Sir <hi>Iohn Colleton</hi> Knight and Barronet, will not refer the differences aforeſaid. But now as formerly he gives only this for anſwer, that he will de<g ref="char:EOLhyphen"/>clare, <hi>&amp;c.</hi> If ſuch be the lawes and practiſes of the Londoners, God ſend me to live amongſt <hi>Indians, Turks</hi> and <hi>Iews.</hi>
+            </p>
+            <p>For prevention of ſuch helliſh practiſes, it were to be wiſhed,
+<pb n="6" facs="tcp:169380:4"/>that there were a Court Merchant erected in <hi>England,</hi> as is uſual in other Countries where Trade is moſt encouraged, (which I hear for many years paſt in former Parliaments hath been en<g ref="char:EOLhyphen"/>deavoured, but hindred eſpecially by the Lawyers) ſuch Villanies would not be practiſed. But to corrupt offices and officers, this will be but falſe doctrine becauſe it will hinder the helliſh griſt com<g ref="char:EOLhyphen"/>ing to their Mill. This practiſe for the ſake of particular gaine hath been too long uſed, and thoſe that are concerned will cry up their <hi>Diana,</hi> old cuſtomes though never ſo wicked, for which deteſtible practices (if not ſpeedyly remedied by authority) God will certain<g ref="char:EOLhyphen"/>ly viſiet, who hath threatned that for three Tranſgreſſions and for four, he would not turne away the puniſhment of <hi>Moab,</hi> becauſe they ſold the needy for ſilver, and the poor for a paire of ſhooes; and the practiſe of our times neerly reſembling their Cruelty, (whoſe puniſhment is threatned in the ſame Chapter) who inhumanly burnt the bones of their Bretheren into lime.</p>
+            <p>But to returne to <hi>Neave,</hi> leaſt (that for two or three Termes) the malicious cuſtom he forget, I hope this ſhort caution will mind him which might have been ſweld into a larger volume with a particular liſt of his knaveries, and that it will prove a ſufficient admonition to all ſuch who heretofore have dealt with the ſaid <hi>Neave,</hi> how hereafter they truſt him, or keepe company with him. Nor do I doubt but in ſhort time to ſee his knavery ſo farr de<g ref="char:EOLhyphen"/>tected, by all men, that they will avoid his &amp; kick him (and all that are of his Religion) out of their company. And that every one may be forwarn'd, and ſo forearm'd, the knaves lodging is at pre<g ref="char:EOLhyphen"/>ſent in St. <hi>Thomas Appoſtles,</hi> though without queſtion ſuch deal<g ref="char:EOLhyphen"/>ings as theſe, will ſhortly reduce him (when every bird hath his own feathers) to the retired life of a cloſe Priſoner, or to a more wandring life of a Fugitive Vagabond.</p>
+            <p>Thus much a Cordial freind to the greatly wronged and oppreſ<g ref="char:EOLhyphen"/>ſed <hi>(Thomas Crocker)</hi> in his vindication thought good to com<g ref="char:EOLhyphen"/>mit to publick view, that the World may ſee the Villanous ma<g ref="char:EOLhyphen"/>lice of his unjuſt Adverſary (I had almoſt ſaid unparallel'd, but that as it is ſaid before, it is too common in <hi>London</hi> to meet with ſuch practiſes) againſt whom he queſtions not but to recover
+<pb n="7" facs="tcp:169380:4"/>good damages at law, and to have his caſe become a preſident of unjuſt oppreſſion at the ſitting of the next Parliament, in hopes that the remedy will not there prove worſe then the diſeaſe, as hath been uſual in moſt of the late Parliaments, who like God<g ref="char:EOLhyphen"/>fathers and Godmothers (at their firſt ſitting) uſed to promiſe much, but in conluſion performed little or nothing to the verifi<g ref="char:EOLhyphen"/>ng of the old Engliſh proverb, whilſt the graſs growes the Horſe ſtarves.</p>
+            <p>Let <hi>Neave</hi> therefore for the preſent take this in part of pay<g ref="char:EOLhyphen"/>ment, for his inhumane, unatural, unchriſtian, unconſcionable, unjuſt, incharitable and unmerchantlike proceedings. Which ſeven rare imperfections and qualifications, like the ſeven Planets, have a continual motion in, and reign over him which being va<g ref="char:EOLhyphen"/>lued each of them at 1000. l. may and no otherwiſe will make up the pretended ſumes againſt <hi>Crecker,</hi> with a compleate knave to boote, from whom, and ſuch as he is, Good Lord deliver every honeſt man.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>Copia.</head>
+                        <p>SHipped by the Grace of God in good order, and well conditioned, by me <hi>John Crocker,</hi> in and upon the good Ship called the <hi>For<g ref="char:EOLhyphen"/>tune</hi> of <hi>Topſam,</hi> whereof is Mr. (under God for this preſent Voyage,) <hi>Walter Furler.</hi> and now riding at Anchor in the Bay of <hi>Cadiz,</hi> and by Gods grace bound for <hi>Topſam</hi> (To ſay) nineteen Hogſheads of Sherries Wine, and four barrels of Raiſons for my account being mar<g ref="char:EOLhyphen"/>ked and numbred as in the Margent; And are to be delivered in the like good order and well conditioned at the aforeſaid Port of <hi>Topſam</hi> (the dangers of the Seas only excepted) unto <hi>Thomas Crocker</hi> or his Aſſignes, he or they paying freight for the ſaid goods, with Pri<g ref="char:EOLhyphen"/>mage and Avarage accuſtomed. In witneſs whereof the Maſter or Purſer of the ſaid Ship hath affirmed three bills of Lading, all of this tenor and date, the one of which three being accompliſhed, the other two to ſtand void, and ſo God ſend the good ſhip to her deſired Port in ſafety, <hi>Amen.</hi>
+                        </p>
+                        <closer>
+                           <signed>Walter Furler.</signed>
+                           <dateline>Dated <date>the 23 of <hi>November,</hi> 1655.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="8" facs="tcp:169380:5"/>
+                  <opener>
+                     <salute>Brother <hi>Thomas.</hi>
+                     </salute>
+                  </opener>
+                  <p>GOd ſending you well at <hi>Topſam,</hi> pray ſee the Veſſe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> diſcharged, and for what goods I have aboard diſpoſe thereof which is four Barrels of Reiſons and nineteen hogſheads of Sheries Sack, &amp; one hundred and eighty dozen of <hi>Corke,</hi> and what <hi>Salt</hi> ſhe may have and <hi>Orringes</hi> and <hi>Lemonds.</hi> And after all if you can fit her out in time to come here againſt the Lent with <hi>Pilt<g ref="char:EOLhyphen"/>chards,</hi> ſo that you can come before the end of <hi>Ianuary</hi> and bide of and ſend a boat a ſhore to Mr. <hi>George Andrews,</hi> and conſigne the Ship and goods to Mr. <hi>Andrews.</hi> And if not, follow further order. So in haſt I Reſt Your</p>
+                  <closer>
+                     <signed>loving Brother <hi>Iohn Crocker.</hi>
+                     </signed>
+                     <dateline>Dated in <hi>Cadiz</hi> 
+                        <date>the 23 of <hi>November</hi> 1655.</date>
+                     </dateline>
+                  </closer>
+                  <postscript>
+                     <head>Poſcript.</head>
+                     <p>And be ſure you draw up the Account of the Ship be<g ref="char:EOLhyphen"/>fore you come for <hi>England,</hi> and charge the freight for the goods a board, and if the Bills of lading ſhould not appear for what is a board, deſire the Maſter to take care to deliver it to my father. So I Reſt and God ſend you a good Voyage.</p>
+                  </postscript>
+                  <trailer>For Mr. <hi>Thomas Crocker</hi> Merchant</trailer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
